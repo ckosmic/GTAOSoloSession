@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\christian\documents\visual studio 2017\projects\gtaosolosession\gtaosolosession\main.cpp(135): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  GTAOSoloSession.vcxproj -> c:\users\christian\documents\visual studio 2017\Projects\GTAOSoloSession\Debug\GTAOSoloSession.exe
+  GTAOSoloSession.vcxproj -> c:\users\christian\documents\visual studio 2017\Projects\GTAOSoloSession\Debug\GTAOSoloSession.pdb (Partial PDB)
